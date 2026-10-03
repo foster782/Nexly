@@ -1,0 +1,1 @@
+Nexly v8 — group calls, group avatars, Telegram-style reactions, blocking hardening, racing no-flicker
